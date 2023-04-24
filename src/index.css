@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient {
+ /* Gradient in Hex */
+background-image: linear-gradient(to right, #0d0751 0%, 38.83495032787323%, #233abc 77.66990065574646%, 88.83495032787323%, #010204 100%);;
+
+}
